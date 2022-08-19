@@ -1,7 +1,5 @@
 # kickstarter-analysis
 Performing analysis on Kickstarter to analyze trends
----
-## Outcomes Based on Launch Date
 ![Outcomes Based on Launch Date](kickstarter-analysis/Outcomes Based on Launch Date.png)
 ---
 ## Parent Category Outcomes
